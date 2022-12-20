@@ -1,3 +1,4 @@
+package paket1;
 
 // Nu är det bara att hoppas att Eclipse fungerar väl trots att jag har initierat ett repo inne i Projektkatalogen inne i Workspaces
 // för att få src/ som enda katalog på github när jag pushar dit
@@ -13,7 +14,7 @@
 // då jag alltid kan klona från Github.
 
 
-public class TestClass {
+public class TestClass1 {
 
 	public static void main(String[] args) {
 		
