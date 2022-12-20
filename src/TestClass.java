@@ -13,7 +13,7 @@
 // då jag alltid kan klona från Github.
 
 
-public class GitTestEclipse3 {
+public class TestClass {
 
 	public static void main(String[] args) {
 		
