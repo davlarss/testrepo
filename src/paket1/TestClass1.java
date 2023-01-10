@@ -20,6 +20,7 @@ public class TestClass1 {
 		
 		System.out.println("Låt oss testa git");
 		System.out.println("Ändrar lite till");
+		System.out.println("och ändrar ytterligare lite");
 	}
 	
 	
